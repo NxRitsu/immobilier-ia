@@ -37,7 +37,7 @@ Le projet suit une méthodologie rigoureuse, comprenant la préparation des donn
 ### **1. Installation**
 Cloner le projet et installer les dépendances nécessaires :
 ```bash
-git clone https://github.com/votre-projet/immobilier-ia.git
+git clone https://github.com/NxRitsu/immobilier-ia.git
 cd immobilier-ia
 pip install -r requirements.txt
 ```
